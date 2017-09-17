@@ -1,0 +1,40 @@
+\select@language {english}
+\contentsline {section}{\numberline {1}Problem Statement}{1}
+\contentsline {section}{\numberline {2}Background}{2}
+\contentsline {subsection}{\numberline {2.1}\textsc {Industry}}{3}
+\contentsline {subsection}{\numberline {2.2}\textsc {Eddy Current}}{3}
+\contentsline {subsection}{\numberline {2.3}\textsc {Fractures}}{4}
+\contentsline {section}{\numberline {3}Stakeholders}{7}
+\contentsline {section}{\numberline {4}Project Scope}{8}
+\contentsline {subsection}{\numberline {4.1}\textsc {Functions} }{8}
+\contentsline {subsection}{\numberline {4.2}\textsc {Objectives} }{8}
+\contentsline {subsection}{\numberline {4.3}\textsc {Constraints}}{10}
+\contentsline {subsection}{\numberline {4.4}Summary of Design Requirements}{11}
+\contentsline {section}{\numberline {5}Analysis of Manufacturing and Fabrication Methods}{12}
+\contentsline {subsection}{\numberline {5.1}\textsc {Crack creation or manufacturing of cracks}}{12}
+\contentsline {subsubsection}{\numberline {5.1.1}Laser Cutting}{12}
+\contentsline {subsubsection}{\numberline {5.1.2}Electric Discharge Wire-Cutting}{12}
+\contentsline {subsubsection}{\numberline {5.1.3}Aluminum PAN etching}{12}
+\contentsline {subsubsection}{\numberline {5.1.4}Adjacent sheets}{13}
+\contentsline {subsubsection}{\numberline {5.1.5}Preferred Method of Defect Creation}{13}
+\contentsline {subsection}{\numberline {5.2}\textsc {Fabrication of the Calibration Block}}{13}
+\contentsline {subsubsection}{\numberline {5.2.1}Computer Numerical Control (CNC)}{13}
+\contentsline {subsubsection}{\numberline {5.2.2}Chemical milling}{14}
+\contentsline {subsubsection}{\numberline {5.2.3}Gel/Tape Adhesion}{14}
+\contentsline {subsubsection}{\numberline {5.2.4}Preferred Method of Fabrication}{14}
+\contentsline {section}{\numberline {6}Proposed Designs}{15}
+\contentsline {subsection}{\numberline {6.1}\textsc {The Hook} }{15}
+\contentsline {subsection}{\numberline {6.2}\textsc {The Petri Dish} }{18}
+\contentsline {subsection}{\numberline {6.3}\textsc {The Staircase} }{20}
+\contentsline {section}{\numberline {7}Evaluation \& Final Design}{22}
+\contentsline {subsection}{\numberline {7.1}\textsc {Finalized Design Criteria}}{22}
+\contentsline {subsection}{\numberline {7.2}\textsc {Weighted Sum Model}}{23}
+\contentsline {subsection}{\numberline {7.3}\textsc {Modifications to the final design}}{23}
+\contentsline {section}{\numberline {8}Cost Analysis of Final Design}{25}
+\contentsline {section}{\numberline {9}Removable Fasteners}{26}
+\contentsline {section}{\numberline {10}Appendix}{27}
+\contentsline {subsection}{\numberline {10.1}\textsc {Notes from phone call with Mr. Vinitsky}}{27}
+\contentsline {subsection}{\numberline {10.2}\textsc {Design Features and Objectives}}{28}
+\contentsline {subsection}{\numberline {10.3}\textsc {Digital Precision EDM Quote}}{29}
+\contentsline {subsection}{\numberline {10.4}\textsc {Machining Quote}}{30}
+\contentsline {section}{References}{31}
